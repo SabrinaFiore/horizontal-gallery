@@ -1,0 +1,17 @@
+// gallery
+
+.img-wrapper {
+  display: flex;
+  // justify-content: center;
+  scroll-behavior: smooth;
+  overflow-x: scroll;
+}
+
+.img-box {
+  margin: 0.75rem;
+}
+
+.img {
+  max-width: 1000px;
+  height: 400px;
+}
